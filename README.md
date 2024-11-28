@@ -9,4 +9,4 @@ Enter the time so far (in minutes) and the temperature you found (in fahrenheit)
 
 The program will estimate when the turkey is safe to eat (reduction of 6.5D in salmonella)
 
-While this is based on accepted food safety science, I make absolutely no warranty that this calculator ensures your turkey is safe to eat. In particular, it is very important you find the coldest part of the turkey.
+While this is based on accepted food safety science, I make absolutely no warranty that this calculator ensures your turkey is safe to eat.
